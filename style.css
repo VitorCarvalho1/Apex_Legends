@@ -82,13 +82,8 @@ li img {
     width: 300px;
     height: 350px;
     cursor: pointer;
-    transition: all 250ms ease;
 }
 
-
-li img:hover {
-    transform: scale(1.1);
-}
 
 li h2 {
     cursor: pointer;
