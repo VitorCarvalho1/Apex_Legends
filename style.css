@@ -24,6 +24,7 @@ header div{
     height: 100px;
     background-color: black;
     position: fixed;
+    z-index: 50;
 }
 
 .imgLendas {
@@ -110,5 +111,13 @@ ul {
     list-style: none;
 }
 
+
+.divisao {
+    visibility: hidden;
+}
+
+li {
+    visibility: hidden;
+}
 
 
