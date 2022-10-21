@@ -80,8 +80,6 @@ main input:focus {
 }
 
 
-
-
 li img {
     width: 300px;
     height: 350px;
@@ -108,7 +106,6 @@ li span {
 li {
     text-align: center;
     margin-bottom: 100px;
-    
 }
 
 
@@ -124,5 +121,4 @@ ul {
 li {
     visibility: hidden;
 }
-
 
